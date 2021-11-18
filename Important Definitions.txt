@@ -1,0 +1,13 @@
+Flask:
+
+Flask is a Popular micro web framework that provides you with tools, libraries, and technologies for building web pages, E-Commerce applications and much more.
+
+Virtual Environment:
+
+A Virtual environment is a tool that helps keep the dependencies required in different projects separately.
+
+A Virtual environment is designed to allow you to work on multiple projects that require diverse dependencies.
+
+Pip:
+
+Pip is a package manager for installing Python Packages and Modules.
