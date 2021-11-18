@@ -5,7 +5,7 @@ import json
 import hashlib
 from flask import Flask, jsonify
 
-#Creating one called Blockchain
+#Create the class called Blockchain
 
 class Blockchain:
    
